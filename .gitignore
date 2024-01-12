@@ -132,4 +132,5 @@ dist
 
 # Other
 script.md
-db/app.db
+db/*.db
+build
