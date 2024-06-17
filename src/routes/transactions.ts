@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { FastifyInstance } from 'fastify'
 import { string, z } from 'zod'
 import { randomUUID } from 'crypto'
